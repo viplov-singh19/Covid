@@ -77,3 +77,12 @@ img {
 .foot{
   margin-bottom: 0;
 }
+@media (max-width :997px) {
+  .wedo{
+    text-align:  center;
+  }
+  .imgg{
+    position: relative;
+    left: 5px;
+  }
+}
