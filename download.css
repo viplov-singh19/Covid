@@ -1,0 +1,33 @@
+body{
+  background-color:  #fdbaf8;
+
+}
+
+h1{
+  font-size: 3rem;
+  color: white;
+}
+.intro{
+  text-align: center;
+  padding-top: 100px;
+}
+.container-fluid{
+  padding: 0% 13% 7%;
+}
+
+/* navigation bar */
+.navbar{
+  padding-bottom: 2.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}

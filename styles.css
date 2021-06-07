@@ -1,0 +1,143 @@
+
+
+.container-fluid{
+  padding: 0% 13% 7%;
+}
+
+/* navigation bar */
+.navbar{
+  padding-bottom: 2.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+
+#title{
+  background-color: #fdbaf8;
+  color: white;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0;
+}
+
+.btnDownload{
+  color: white;
+  margin: 3% 5% 5% 0;
+  position: absolute;
+  top:210px;
+  left:400px;
+  height: 45px;
+}
+.title-img{
+  margin-left: 60px;
+  width:25%;
+  position: absolute;
+  top: 80px;
+  right: 250px;
+}
+@media (max-width :997px) {
+  #title{
+    text-align: center;
+  }
+.title-img  {
+    position: static;
+  transform: rotate(0);
+  width: 50%
+}
+.btnDownload{
+  position: relative;
+  top:5px;
+  left:15px;
+}
+iframe{
+  width: 400px;
+  height: 255px;
+}
+}
+
+.title-heading{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 2.7rem;
+  margin-bottom: 5px;
+  line-height: 1.5;}
+h5{
+  margin-bottom: 20px;}
+
+
+#mid{
+  margin-top: 80px;
+  text-align: center;
+  position :relative;
+  z-index: 1;
+  margin-bottom: 30px;
+}
+.mid-img{
+  width: 15%;
+  padding: 10px;
+}
+
+.mid-h2{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 2.5rem;
+  color: #eca3f5;
+}
+
+.mid-p{
+  color: #eca3f5;
+}
+.container-end{
+  padding: 0% 7% 4%;
+}
+#end{
+  padding-top: 70px;
+  background-color: #fdbaf8;
+padding-bottom: 0;
+}
+.end-img{
+width:50%;
+position: relative;
+left: 100px;
+transition: all 0.05s;
+}
+
+.end-heading{
+  color: white;
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+.list{
+  padding-top: 20px;
+  color: white;
+font-size: 1.5rem;
+line-height: 2;
+}
+
+#footer{
+  background-color:  #fdbaf8;
+  text-align: center;
+}
+.foot-img{
+  padding: 0px 15px 15px 10px;
+}
+.foot{
+  margin-bottom: 0;
+}
+
+a {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}

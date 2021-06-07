@@ -1,0 +1,79 @@
+.container-fluid{
+  padding: 0% 13% 2%;
+}
+
+/* navigation bar */
+.navbar{
+  padding-bottom: 2.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+
+#title{
+  background-color: #fdbaf8;
+  color: white;
+
+  margin-bottom: 0;
+  padding-bottom: 50px;
+
+}
+.wedo{
+  padding-top: 20px;
+}
+h1{
+  text-align: center;
+  font-size: 3.5rem;
+}
+
+.info-head{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 2rem;
+  padding-bottom: 10px;
+  padding-top: 10px;
+color: #eca3f5;
+}
+.info-p{
+  font-family: 'Montserrat';
+padding: 5px 20px 10px 0;
+font-size: 1.5rem;
+}
+.in{
+  padding-left: 30px;
+}
+
+.imgg{
+height: 110px;
+width: 110px;
+border-radius: 100%;
+border-image-width:20px;
+position: relative;
+left: 140px;
+}
+
+img {
+  border: 5px solid red;
+}
+
+
+#footer{
+  padding-top: 30px;
+  background-color:  #fdbaf8;
+  text-align: center;
+}
+.foot-img{
+  padding: 0px 15px 15px 10px;
+}
+.foot{
+  margin-bottom: 0;
+}
